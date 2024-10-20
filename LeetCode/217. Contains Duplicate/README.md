@@ -37,4 +37,12 @@ Constraints:
     -109 <= nums[i] <= 109
 
 
+Personal Notes:
+
+If I compare each item with all the other items of the list then the time complexity becomes **O(n2)**
+If I use nums.sort() and then comapare with adjacent item, then the time complexity becomes **O(nlogn)** and space complexity becomes **O(1)**
+In above solution, the time complexity becomes **O(n)**, even though the space complexity becomes **O(n)** too.
+
+
+
 
