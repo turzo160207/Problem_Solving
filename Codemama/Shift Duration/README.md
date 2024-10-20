@@ -19,6 +19,7 @@ Constraints
      0 ≤ E ≤ 23
 
 Example 1:
+
 Input:
 
 21 3
@@ -28,6 +29,7 @@ Output:
 6
 
 Example 2:
+
 Input:
 
 10 10
