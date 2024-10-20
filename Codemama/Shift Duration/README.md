@@ -4,12 +4,15 @@ Shift Duration
 Problem Statement
 
 You are tasked with calculating the duration of a work shift, knowing the start and end times in hours. A work shift can start on one day and end on another day, but it should not exceed 24 hours.
+
 Input
 
 Two integer numbers **S** and **E** representing the start and end times of a work shift in hours.
+
 Output
 
 Print the duration of the work shift in hours.
+
 Constraints
 
      0 ≤ S ≤ 23
