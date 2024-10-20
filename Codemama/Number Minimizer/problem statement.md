@@ -1,7 +1,7 @@
 Number minimizer
 Problem Statement
 
-Given a string ###S representing a very large integer, minimize ###S by changing at most ###K digits, such that ###S still doesn't contain any leading zeros. Input length and output length should be same.
+Given a string ###S representing a very large integer, minimize **S** by changing at most ###K digits, such that ###S still doesn't contain any leading zeros. Input length and output length should be same.
 Input
 
 Will contains a string ###S, and an integer ###K separated by spaces in a single line.
