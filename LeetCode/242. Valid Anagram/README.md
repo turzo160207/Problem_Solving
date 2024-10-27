@@ -33,6 +33,7 @@ In the first solution, at first i'm checking if the words are same in length. If
 For that, I'm creating two dictionaries where the letters will be *keys* and their occurances will be *values*. After populating the dictionaries using for loop, I'm comparing the *keys* of two words against their *values*.
 
 Time Complexity: **O(n)**
+
 Space Complexity: **O(k)** (where k is the number of unique characters)
 
 In the second solution(sorted method), the time complexity is **O(nlogn)** & space complexity is **O(n)**
