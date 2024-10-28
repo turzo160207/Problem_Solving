@@ -14,7 +14,7 @@ Print "Yes" if you will manage to complete both assignments today. Print "No" ot
 
 Constraints
 
-    1≤N,A,B≤5001≤N,A,B≤500
+    1≤N,A,B≤500
 
 Example 1:
 
