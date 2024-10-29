@@ -24,3 +24,9 @@ Constraints:
  
 
 Follow up: Your algorithm's time complexity must be better than O(n log n), where n is the array's size.
+
+Personal Note:
+
+If heap is used, the time complexity becomes **O(klogn)** which is better than **O(nlogn)** provided that, k<n.
+
+But using bucket sort, the time complexity becomes **O(n)** and the space complexity remains **O(n)** too.
