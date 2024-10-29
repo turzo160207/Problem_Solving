@@ -9,7 +9,4 @@ def tile_tidy(N,S):
 
     return count
 
-
-print(N)
-print(S)
 print(tile_tidy(N,S))
