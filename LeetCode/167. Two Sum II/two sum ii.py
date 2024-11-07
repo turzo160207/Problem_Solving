@@ -17,7 +17,5 @@ def two_sum(nums,target):
         else:
             return[l+1,r+1]
         
-    return(l+1,r+1)
-        
 
 print(two_sum(nums,target))
