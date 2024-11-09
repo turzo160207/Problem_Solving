@@ -11,3 +11,4 @@ Problems solved in sequence...
 9. Longest Consecutive Sequence (128)
 10. Valid Palindrome (125)
 11. Two Sum II (167)
+12. 3Sum (15)
