@@ -1,4 +1,4 @@
-nums = [7,6,4,3,1]
+nums = [7,1,5,3,6,4]
 
 def maxProfit(nums):
     maxProf = 0
