@@ -2,20 +2,20 @@ Lazy Walking
 
 Problem Statement
 
-For being lazy you are punished to walk on the garden at least NN steps. As you mastered laziness, after ithith step you take rest for ii second(s). You also takes X second(s) to complete each step. Now write a program to calculate the total time to take exactly NN steps.
+For being lazy you are punished to walk on the garden at least **N** steps. As you mastered laziness, after ithith step you take rest for **i** second(s). You also takes **X** second(s) to complete each step. Now write a program to calculate the total time to take exactly **N** steps.
 
 Input
 
-One line contains two integer NN and XX.
+One line contains two integer **N** and **X**.
 
 Output
 
-You have to print total time needed to take exactly NN steps in a single line.
+You have to print total time needed to take exactly **N** steps in a single line.
 
 Constraints
 
-    1≤N≤100001≤N≤10000
-    0≤X≤100≤X≤10
+    1≤N≤10000
+    0≤X≤10
 
 Example 1:
 
