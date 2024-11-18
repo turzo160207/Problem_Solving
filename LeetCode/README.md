@@ -16,4 +16,5 @@ Problems solved in sequence...
 14. Trapping Rain Water (42)
 15. Best Time to Buy and Sell Stock (121)
 16. Longest Substring Without Repeating Characters (3)
+17. Longest Repeating Character Replacement (424)
 
